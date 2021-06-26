@@ -1,0 +1,25 @@
+{
+  "name": "wiki-api",
+  "version": "1.0.0",
+  "description": "This is a wikipedia style api built using the rest architectural design principle, It uses mongoose, express, ejs, body-parser and mongoDB.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudip-modi/wiki-api.git"
+  },
+  "author": "sudip modi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudip-modi/wiki-api/issues"
+  },
+  "homepage": "https://github.com/sudip-modi/wiki-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  }
+}
